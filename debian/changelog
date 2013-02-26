@@ -1,0 +1,5 @@
+python-snappy (0.5-1~jb1) lucid; urgency=low
+
+  * Packaged for Lucid.
+
+ -- Kyle Ambroff <ambroff@jawbone.com>  Tue, 26 Feb 2013 12:25:10 +0000
