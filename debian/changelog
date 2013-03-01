@@ -1,3 +1,9 @@
+python-snappy (0.5-1~jb2) lucid; urgency=low
+
+  * Fix package name.
+
+ -- Ubuntu <ubuntu@ip-10-66-71-179.ec2.internal>  Fri, 01 Mar 2013 04:47:08 +0000
+
 python-snappy (0.5-1~jb1) lucid; urgency=low
 
   * Packaged for Lucid.

@@ -6,7 +6,7 @@ Build-Depends: python-all-dev, debhelper (>= 7), python-support (>= 0.8.4),
  libsnappy-dev (>= 1.0.5-2~jb1)
 Standards-Version: 3.8.4
 
-Package: python-python-snappy
+Package: python-snappy
 Architecture: any
 Depends: ${misc:Depends}, ${python:Depends}, ${shlibs:Depends},
  libsnappy1 (>= 1.0.5-2~jb1)
